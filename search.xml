@@ -17,19 +17,6 @@
     
     
     <entry>
-      <title>[object Object]</title>
-      <link href="/2019/12/12/md-hexo-yu-fa-ce-shi/"/>
-      <url>/2019/12/12/md-hexo-yu-fa-ce-shi/</url>
-      
-        <content type="html"><![CDATA[<script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>git 文章</title>
       <link href="/2019/12/12/git-wen-zhang/"/>
       <url>/2019/12/12/git-wen-zhang/</url>
@@ -49,38 +36,6 @@
             <tag> git </tag>
             
         </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>md语法测试</title>
-      <link href="/2019/12/11/md-yu-fa-ce-shi/"/>
-      <url>/2019/12/11/md-yu-fa-ce-shi/</url>
-      
-        <content type="html"><![CDATA[<h3 id="语法"><a href="#语法" class="headerlink" title="语法"></a>语法</h3><ul><li>12321</li><li>2131</li></ul><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
-      
-      
-      
-        <tags>
-            
-            <tag> md </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>article title</title>
-      <link href="/2019/12/11/article-title/"/>
-      <url>/2019/12/11/article-title/</url>
-      
-        <content type="html"><![CDATA[<h4 id="第一篇文章"><a href="#第一篇文章" class="headerlink" title="第一篇文章"></a>第一篇文章</h4><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
-      
-      
       
     </entry>
     
